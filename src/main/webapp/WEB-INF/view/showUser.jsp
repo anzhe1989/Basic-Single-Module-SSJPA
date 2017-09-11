@@ -22,7 +22,7 @@
 
 <br>
 
-真实姓名：${user.sysUserRealName}
+注册时间：${user.sysUserRegisterDatetime}
 
 </body>
 </html>
